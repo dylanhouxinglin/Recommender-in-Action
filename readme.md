@@ -12,4 +12,6 @@
 ## 冷启动问题
 ### [用户冷启动](https://github.com/dylanhouxinglin/Recommender-in-Action/blob/master/%E5%86%B7%E5%90%AF%E5%8A%A8%E9%97%AE%E9%A2%98/User_ColdStart.ipynb)
 
+### [物品冷启动](https://github.com/dylanhouxinglin/Recommender-in-Action/blob/master/%E5%86%B7%E5%90%AF%E5%8A%A8%E9%97%AE%E9%A2%98/Item_ColdStart.ipynb)
+
 
